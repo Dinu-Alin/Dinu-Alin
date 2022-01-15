@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computer Science Student familiar with gathering, cleaning and organizing data, interested in .NET Development, Front-end Development(Angular, React, WPF), Image Processing(C++, Python) and basic concepts in ML, autodidact, willing to learn new skills and develop myself. I believe that I have a lot to contribute to a team environment; I love to resolve group issues through research and communication. Good understanding of algebra, I have significant knowledge in Modern C++. I am also comfortable with Qt and SignalR.
+Computer Science Student familiar with gathering, cleaning and organizing data, interested in .NET Development, Front-end Development(Angular, React, WPF), Mobile App Development(Flutter, Xamarin and Kotline), Image Processing(C++, Python) and basic concepts in ML, autodidact, willing to learn new skills and develop myself. I believe that I have a lot to contribute to a team environment; I love to resolve group issues through research and communication. Good understanding of algebra, I have significant knowledge in Modern C++. I am also comfortable with Qt and SignalR.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinu-Alin)](https://github.com/anuraghazra/github-readme-stats)
 <!--
