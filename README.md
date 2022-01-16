@@ -34,13 +34,13 @@
 
 <br/>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinu-alin&show_icons=true&locale=en&theme=radical" alt="dinu-alin" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinu-alin&show_icons=true&locale=en&theme=react" alt="dinu-alin" /></p>
 <br/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinu-alin&theme=radical" alt="dinu-alin" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinu-alin&theme=react" alt="dinu-alin" /></p>
 <br/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinu-alin&show_icons=true&locale=en&layout=compact&theme=radical" alt="dinu-alin" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinu-alin&show_icons=true&locale=en&layout=compact&theme=react" alt="dinu-alin" /></p>
 <br/>
 <br/>
 <p align="center">
