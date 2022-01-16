@@ -43,4 +43,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinu-alin&show_icons=true&locale=en&layout=compact" alt="dinu-alin" /></p>
 <br/>
 <br/>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dinu-Alin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dinu-Alin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)"
