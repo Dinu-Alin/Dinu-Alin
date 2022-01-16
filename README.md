@@ -32,12 +32,15 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><!-- ML --><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<br>
-<br>
+<br/>
+<br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinu-alin&show_icons=true&locale=en" alt="dinu-alin" /></p>
-<br>
-<br>
+<br/>
+<br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinu-alin&" alt="dinu-alin" /></p>
-<br>
-<br>
+<br/>
+<br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinu-alin&show_icons=true&locale=en&layout=compact" alt="dinu-alin" /></p>
+<br/>
+<br/>
+<a href="https://github.com/Dinu-Alin/github-readme-activity-graph"><img alt="Dinu Ionuț-Alin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dinu-Alin28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
