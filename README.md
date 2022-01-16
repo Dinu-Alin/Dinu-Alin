@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinu Ionuț-Alin</h1>
 <h3 align="center">Computer Science Student familiar with gathering, cleaning and organizing data, interested in .NET Development, Front-end Development(Angular, React, WPF), Image Processing(C++, Python) and basic concepts in ML, autodidact, willing to learn new skills and develop myself. I believe that I have a lot to contribute to a team environment; I love to resolve group issues through research and communication. Good understanding of algebra, I have significant knowledge in Modern C++. I am also comfortable with Qt and SignalR.</h3>
 
+
 - 🌱 I’m currently learning **.NET Framework**
 
 - 💬 Ask me about **C#, Angular, C++**
@@ -8,6 +9,7 @@
 - 📫 How to reach me **dinui.alin@gmail.com**
 
 - ⚡ Random fact **I love to play football!**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
