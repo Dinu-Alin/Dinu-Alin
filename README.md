@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinu Ionuț-Alin</h1>
-<h3 align="center">Computer Science Student familiar with gathering, cleaning and organizing data, interested in .NET Development, Front-end Development(Angular, React, WPF), Image Processing(C++, Python) and basic concepts in ML, autodidact, willing to learn new skills and develop myself. I believe that I have a lot to contribute to a team environment; I love to resolve group issues through research and communication. Good understanding of algebra, I have significant knowledge in Modern C++. I am also comfortable with Qt and SignalR.</h3>
+
+<h3 align="center">🤙About Me</h3>
+<h4 align="center">Computer Science Student familiar with gathering, cleaning and organizing data, interested in .NET Development, Front-end Development(Angular, React, WPF), Image Processing(C++, Python) and basic concepts in ML, autodidact, willing to learn new skills and develop myself. I believe that I have a lot to contribute to a team environment; I love to resolve group issues through research and communication. Good understanding of algebra, I have significant knowledge in Modern C++. I am also comfortable with Qt and SignalR.</h4>
 
 - 📚 I’m currently learning **.NET Framework**
 
@@ -10,13 +12,13 @@
 - ⚽ Random fact **I love to play football!**
 <br>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"🤜🤛Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dinu-alin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinu-alin/" height="30" width="40" /></a>
 <a href="https://github.com/Dinu-Alin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Dinu-Alin" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">👨‍💻Languages and Tools:</h3>
 
 <p align="center"> <!-- Microsoft -->
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
