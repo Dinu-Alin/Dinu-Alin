@@ -1,44 +1,51 @@
-<h1 align="center">Hi 👋, I'm Dinu Ionuț-Alin</h1>
+### Hi, my name is Alin and I am Full-Stack Software Engineer
 
-<h3 align="center">🤙About Me</h3>
-<h4 align="center">Computer Science Student familiar with gathering, cleaning and organizing data, interested in .NET Development, Front-end Development(Angular, WPF, UWP), Image Processing(C++, Python) and basic concepts in ML, autodidact, willing to learn new skills and develop myself. I believe that I have a lot to contribute to a team environment; I love to resolve group issues through research and communication. Good understanding of algebra, I have significant knowledge in Modern C++.</h4>
+**Field of interests**: Frontend (React), Python, C++, Cross-Platform Development, Engineering Modeling
 
-- 📚 I’m currently learning **.NET**
+**Location**: Bucharest, Romania
 
-- 💻 **C#, Angular, C++**
+### Skills 🛠️
+- **Frontend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     React.js, Redux, TypeScript, JavaScript, ReactFlow, Material UI, Zustand
+- **Backend**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Python, FastAPI, C++, C#, .NET, REST APIs
+- **Databases**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Redis, PostgreSQL, Entity Framework, SQLite
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Docker, Jenkins, CI/CD, Git, Azure Database
+- **Tools**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Qt, JupyterLab, Storybook, OpenCV
 
-- 📬 How to reach me **dinui.alin@gmail.com**
+### Work experience 👔
+| Job Position                    | Company                         | Field                              | Work Period           |
+| ------------------------------- | ------------------------------- | ---------------------------------- | --------------------- |
+| **Software Engineer**           | **Siemens Digital Industries**  | **React/Python/C++, System Architecture Modelling**     | **2024-12 — Present** |
+| Associate Software Engineer     | Siemens Digital Industries      | Web Development, Jupyter          | 2023-10 — 2024-12     |
+| Associate Software Engineer     | Simcenter System Architect      | Cross-Platform, C++/Python        | 2022-06 — 2023-10     |
+| Software Development Intern     | Siemens Digital Industries      | .NET, Product Management          | 2021-10 — 2022-07     |
+| Summer School Apprentice        | Curious Minds Program           | Cross-Platform Mobile App             | 2021-07 — 2021-09     |
+| Spring School Apprentice        | General Magic                   | TensorFlow Mobile                 | 2021-03 — 2021-05     |
 
-- ⚽ Random fact **I love to play football!**
-<br>
+### Education 🎓
+- Master's Degree @ [Transilvania University of Brasov] - Master's Degree, Modern Technologies in Software Systems Engineering, Bifrost - SysMLv2 System Modeling Platform (React/Python/C++)
+- Bachelor's Degree @ [Transilvania University of Brasov] - Bachelor's degree, Computer Science, FluentStory - .NET Agile Management Software (UWP)
 
-<h3 align="center">🤜🤛Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/dinu-alin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinu-alin/" height="30" width="40" /></a>
-<a href="https://github.com/Dinu-Alin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Dinu-Alin" height="30" width="40" /></a>
-</p>
+### Projects 🚀
+- [Mosaic++](https://github.com/adriancalavie/Mosaic-plus-plus) - C++ photomosaic generator with Qt GUI, OpenCV, and advanced algorithms
+- [Genetic Algorithm for Nurse Scheduling](https://github.com/adriancalavie/Nurse-Scheduling-Problem) - Python optimization solution using evolutionary computation
+- **SysMLv2 System Modeling Platform** - React/ReactFlow application with Python/FastAPI backend and C++ integration
 
-<h3 align="center">👨‍💻Languages and Tools:</h3>
+### Technical Contributions 💻
+- Transformed legacy JavaScript applications to modern React architecture with real-time collaboration
+- Architected parallel computation systems for Jupyter notebooks with service lifecycle management
+- Integrated C++ modeling engines with React applications through RESTful APIs
+- Developed cross-platform applications spanning Web, Mobile (Xamarin), and Desktop (Qt, WPF)
+- Implemented CI/CD pipelines with Docker containerization and Jenkins automation
 
-<p align="center"> <!-- Microsoft -->
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><!-- Java --><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><!-- Front-End --><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><!-- Database -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><!-- ML --><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+### Mentoring & Teaching 🎯
+- Provided technical mentorship to students across web development frameworks and C++ programming (Also in our Spring/Summer Internship Programme)
+- Guided junior developers in React best practices and modern web development workflows
+- Assisted in onboarding processes and knowledge transfer for cross-functional teams
 
-<br/>
-<br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinu-alin&show_icons=true&locale=en&theme=react" alt="dinu-alin" /></p>
-<br/>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinu-alin&theme=react" alt="dinu-alin" /></p>
-<br/>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinu-alin&show_icons=true&locale=en&layout=compact&theme=react" alt="dinu-alin" /></p>
-<br/>
-<br/>
-
+### Achievements 🏆
+- **3+ years** of professional development experience at enterprise level
+- Successfully **migrated legacy systems** to modern architectureS with real-time capabilities
+- **International collaboration** experience with global development teams
+- **Full-stack proficiency** from C++ performance optimization to React UI development and Python
+- **Having a nice family :)**
+- **Being fulfilled with what I've achieved but desiring far more**
