@@ -7,7 +7,7 @@
 ### Skills 🛠️
 - **Frontend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     React.js, Redux, TypeScript, JavaScript, ReactFlow, Material UI, Zustand
 - **Backend**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Python, FastAPI, C++, C#, .NET, REST APIs
-- **Databases**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Redis, PostgreSQL, Entity Framework, SQLite
+- **Databases/QM**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Redis, PostgreSQL, Entity Framework, SQLite
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Docker, Jenkins, CI/CD, Git, Azure Database
 - **Tools**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Qt, JupyterLab, Storybook, OpenCV
 
